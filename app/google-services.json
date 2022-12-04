@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "434074286797",
+    "project_id": "commandchatapp-default-rtdb",
+    "storage_bucket": "commandchatapp-default-rtdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434074286797:android:db40ada70af6fa21328784",
+        "android_client_info": {
+          "package_name": "com.dogukan.tellme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434074286797-ofdtgpk4jla88acc31ennbnqkoc5dlmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1e4yikCWr5sNP71PVCQmFYGf4Bj3Pcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434074286797-ofdtgpk4jla88acc31ennbnqkoc5dlmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434074286797:android:62a422a1755210d8328784",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434074286797-ofdtgpk4jla88acc31ennbnqkoc5dlmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1e4yikCWr5sNP71PVCQmFYGf4Bj3Pcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434074286797-ofdtgpk4jla88acc31ennbnqkoc5dlmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434074286797:android:758317685bca9119328784",
+        "android_client_info": {
+          "package_name": "com.yusifmammadov.samplechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434074286797-ofdtgpk4jla88acc31ennbnqkoc5dlmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1e4yikCWr5sNP71PVCQmFYGf4Bj3Pcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434074286797-ofdtgpk4jla88acc31ennbnqkoc5dlmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
